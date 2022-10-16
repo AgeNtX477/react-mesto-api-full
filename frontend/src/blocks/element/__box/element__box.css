@@ -1,0 +1,12 @@
+.element__box {
+    position: relative;
+    width: 282px;
+    height: 361px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: start; */
+}

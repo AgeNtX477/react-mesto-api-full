@@ -1,0 +1,14 @@
+.popup__error_visible {
+    opacity: 1;
+    max-width: 353px;
+    color: #FF0000;
+    font-size: 12px;
+    line-height: 1.25;
+    text-align: left;
+}
+
+@media all and (max-width: 578px) {
+    .popup__error_visible {
+        font-size: 10px;
+    }
+}

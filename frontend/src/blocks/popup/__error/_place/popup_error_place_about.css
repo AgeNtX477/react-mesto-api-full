@@ -1,0 +1,11 @@
+.popup__error_place_about {
+    position: absolute;
+    left: 36px;
+    top: 229px;
+}
+
+@media all and (max-width: 578px) {
+    .popup__error_place_about {
+        left: 16px;
+    }
+}

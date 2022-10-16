@@ -1,0 +1,10 @@
+.popup__tool-image {
+  align-self: center;
+  margin: 60px auto auto auto;
+  width: 120px;
+  height: 120px;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}

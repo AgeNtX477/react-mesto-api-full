@@ -1,0 +1,6 @@
+.auth__signcaption {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    justify-content: center;
+}

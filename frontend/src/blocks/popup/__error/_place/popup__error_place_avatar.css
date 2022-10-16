@@ -1,0 +1,12 @@
+.popup__error_place_avatar {
+    position: absolute;
+    left: 36px;
+    bottom: 110px;
+}
+
+@media all and (max-width: 578px) {
+    .popup__error_place_avatar {
+        left: 16px;
+        bottom: 72px;
+    }
+}

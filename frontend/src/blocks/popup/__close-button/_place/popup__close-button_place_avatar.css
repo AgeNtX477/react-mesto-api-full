@@ -1,0 +1,27 @@
+.popup__close-button_place_avatar {
+    position: absolute;
+    background-color: transparent;
+    width: 32px;
+    height: 32px;
+    top: -40px;
+    right: -40px;
+    background-image: url(../../../../images/close-button.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.popup__close-button_place_avatar:hover {
+    opacity: .6;
+}
+
+@media all and (max-width: 578px) {
+    .popup__close-button_place_avatar {
+        width: 20px;
+        height: 20px;
+        top: -30px;
+        right: 0px;
+    }
+}
